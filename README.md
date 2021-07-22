@@ -8,4 +8,4 @@ A simple smartwatch app for TizenOS devices that connects to an open API and sto
 * [SQLite](https://www.sqlite.org/index.html)
 
 <h2 align="center">Created using</h2>
-<img width="22" src="images/csharp.png">
+<img width="22" src="/images/csharp.png">
