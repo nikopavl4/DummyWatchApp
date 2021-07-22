@@ -7,3 +7,4 @@ A simple smartwatch app for TizenOS devices that connects to an open API and sto
 * [REST APIs](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
 * [SQLite](https://www.sqlite.org/index.html)
 
+<h2 align="center">🔥 Created using 🔥</h2>
