@@ -7,5 +7,7 @@ A simple smartwatch app for TizenOS devices that connects to an open API and sto
 * [REST APIs](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
 * [SQLite](https://www.sqlite.org/index.html)
 
+This project uses [RapidApi/Numbers API](https://rapidapi.com/divad12/api/numbers-1/)
+
 <h2 align="center">Created using <img width="28" src="images/csharp.png"><img width="28" src="images/net.png"></h2>
 
