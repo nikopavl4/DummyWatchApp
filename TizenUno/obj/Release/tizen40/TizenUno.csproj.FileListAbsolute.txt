@@ -1,0 +1,12 @@
+C:\TizenUno\bin\Release\tizen40\TizenUno.deps.json
+C:\TizenUno\bin\Release\tizen40\TizenUno.dll
+C:\TizenUno\obj\Release\tizen40\App.xaml.g.cs
+C:\TizenUno\obj\Release\tizen40\Views\Fact.xaml.g.cs
+C:\TizenUno\obj\Release\tizen40\Views\Favorites.xaml.g.cs
+C:\TizenUno\obj\Release\tizen40\Views\MainPage.xaml.g.cs
+C:\TizenUno\obj\Release\tizen40\TizenUno.AssemblyInfoInputs.cache
+C:\TizenUno\obj\Release\tizen40\TizenUno.AssemblyInfo.cs
+C:\TizenUno\obj\Release\tizen40\TizenUno.csproj.CoreCompileInputs.cache
+C:\TizenUno\obj\Release\tizen40\XamlC.stamp
+C:\TizenUno\obj\Release\tizen40\TizenUno.dll
+C:\TizenUno\obj\Release\tizen40\TizenUno.csproj.AssemblyReference.cache
