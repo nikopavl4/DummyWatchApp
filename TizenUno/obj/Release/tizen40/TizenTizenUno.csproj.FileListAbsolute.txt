@@ -1,4 +1,5 @@
 C:\TizenUno\bin\Release\tizen40\tpkroot\bin\TizenUno.dll
+C:\TizenUno\bin\Release\tizen40\tpkroot\bin\Microsoft.Data.Sqlite.dll
 C:\TizenUno\bin\Release\tizen40\tpkroot\bin\Newtonsoft.Json.dll
 C:\TizenUno\bin\Release\tizen40\tpkroot\bin\SQLite-net.dll
 C:\TizenUno\bin\Release\tizen40\tpkroot\bin\SQLitePCLRaw.batteries_v2.dll
